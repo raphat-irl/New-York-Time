@@ -1,0 +1,20 @@
+PODS:
+  - FSPagerView (0.8.3)
+  - Kingfisher (7.4.0)
+
+DEPENDENCIES:
+  - FSPagerView
+  - Kingfisher
+
+SPEC REPOS:
+  trunk:
+    - FSPagerView
+    - Kingfisher
+
+SPEC CHECKSUMS:
+  FSPagerView: 670405b2f18e2a87fa37f20b00de783e562c25a8
+  Kingfisher: 596b207973051aae5e4c54a1c1cb39837ea10d36
+
+PODFILE CHECKSUM: 127428afb4aaefbb4a91d921848d052711f03696
+
+COCOAPODS: 1.11.3
